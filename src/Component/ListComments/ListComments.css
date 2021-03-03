@@ -1,0 +1,21 @@
+.ListComments{
+    display:flex;
+    flex-direction: column;
+    width:60%;
+    margin: auto;
+    padding-top: 70px;
+}
+.nbComments{
+    background-color: #4682B4;
+   color: white;
+text-align: center;
+width: 30%;
+margin: auto;
+font-family: 'Courier New', Courier, monospace;
+font-size:20px;
+}
+.btn{
+    width: 50%;
+    padding-top: 20px;
+    margin: auto;
+}

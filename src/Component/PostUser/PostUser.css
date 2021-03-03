@@ -1,0 +1,22 @@
+.listPost{
+   /* display: flex;
+    flex-wrap: wrap;*/
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap:10px;
+    width:70%;
+    margin:auto;
+    margin-top: 40px;
+
+
+}
+.postuser{
+    margin-top: 50px;
+}
+
+.btn{
+    width: 100%;
+    padding-top: 20px;
+    margin: auto;
+    margin-left: 80%;
+}

@@ -1,0 +1,11 @@
+.comments{
+    display:flex;
+    flex-direction: column;
+    border: 1px solid black;
+    margin:10px;
+    background-color: #DCDCDC;
+    border-radius: 5px;
+}
+h2{
+    color:#008B8B
+}

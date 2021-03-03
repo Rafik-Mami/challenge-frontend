@@ -1,0 +1,24 @@
+.listUser{
+    margin-top: 50px;
+   /* display: flex;
+    flex-wrap: wrap;*/
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap:10px;
+
+}
+.home{
+    width:70%;
+    margin:auto
+}
+.inp{
+    margin-top: 150px;
+    width: 50%;
+    margin: auto;
+}
+h1{
+    
+    border-radius: 3px;
+    margin-top: 50px;
+    color:white
+}
